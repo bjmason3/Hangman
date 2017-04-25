@@ -10,13 +10,13 @@ The project is under development using the latest version of eclipse and gradle,
 1. Download the zip source folder and extract the master folder.
 2. Open eclipse (preferably in a new workspace)
 3. File -> Import -> Gradle (STS) -> Gradle (STS) Project
-4. Browse to the "Simple2DJavaGame-master" folder
-5. Select the "2DGame" folder as the root directory
+4. Browse to the "HangmanGame" folder
+5. Select the "HangmanGame" folder as the root directory
 6. Click Build Model next to the Browse... button
 7. Wait
 8. Click the check box next to the "2DGame" main directory and make sure to check Auto-select subprojects
 9. Click finish
-10. Files should be imported into the workspace and you can now navigate to 2DGame-core to start working on the project!
+10. Files should be imported into the workspace and you can now navigate to core to start working on the project!
 
-Run the game through HangmanGame-desktop/src/com.mygdx.game.desktop/DesktopLauncher.java
+Run the game through desktop/src/com.mygdx.game.desktop/DesktopLauncher.java
 Be sure to run as a Java Application!
