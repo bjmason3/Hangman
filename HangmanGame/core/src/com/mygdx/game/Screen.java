@@ -93,6 +93,8 @@ public abstract class Screen{
 		// when there's an update  (key press, mouse event, etc.)
 		// Used to be mindful of resources
 		Gdx.graphics.setContinuousRendering(false);
+		
+		
 	}
 	
 	
